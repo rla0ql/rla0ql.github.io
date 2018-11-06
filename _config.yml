@@ -1,5 +1,5 @@
 # Site settings
-title: 맹개발의 블로그 Maeng-dev's Blog
+title: 영비의 블로그
 url: "http://yunho0130.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 timezone: Asia/Seoul
@@ -7,17 +7,17 @@ description: >
   description
 
 # Your information
-email: yunho0130@gmail.com
-author: 맹개발
+email: rla0ql@daum.net
+author: 김영비
 # avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 avatar: "//github.com/yunho0130/yunho0130.github.io/blob/master/_jpg/yunhomaeng.png"
-profile: <br> 겸손하게 하루하루 배운 것들을 나누는 공간
+profile: <br> 경영 빅데이터 복습 블로그
 #twitter_username: twitter_username
-github_username:  yunho0130
+github_username:  rla0ql
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-disqus_shortname: maengdev   # get one: https://disqus.com/admin/signup/
+disqus_shortname: 0bee   # get one: https://disqus.com/admin/signup/
 #duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 permalink: /archivers/:title
